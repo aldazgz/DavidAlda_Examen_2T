@@ -12,7 +12,7 @@ import kotlinx.coroutines.launch
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
-// Repositorio de GitHub del proyecto:
+// Repositorio de GitHub del proyecto: https://github.com/aldazgz/DavidAlda_Examen_2T.git
 
 class MainActivity : AppCompatActivity() {
 
